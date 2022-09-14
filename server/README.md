@@ -7,7 +7,7 @@ a basic nodejs backend that will authenticate & return a signed jwt cookie to th
 2) in the `server` directory run `npm install` 
 3) run `npm start`
 
-# Steps to create this project 
+# Steps to recreate this project 
 1) create a project directory 
 2) run `npm init` to create a package.json 
 3) install the following dependencies using npm install
