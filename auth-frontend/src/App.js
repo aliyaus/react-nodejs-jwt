@@ -62,7 +62,7 @@ function App() {
 
       <p>Repository available at <a
         className="App-link"
-        href="https://github.com/aliyaus/"
+        href="https://github.com/aliyaus/react-nodejs-jwt"
         target="_blank"
         rel="noopener noreferrer"
       >
