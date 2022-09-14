@@ -1,8 +1,13 @@
 # React-Nodejs-JWT Server 
 
-* a basic nodejs backend that will authenticate & return a signed jwt cookie to the client if they are a valid user 
+a basic nodejs backend that will authenticate & return a signed jwt cookie to the client if they are a valid user 
 
-*** Steps to create this project *** 
+# Steps to clone & run this project 
+1) clone repository
+2) in the project directory run `npm install` 
+3) run `npm start`
+
+# Steps to create this project 
 1) create a project directory 
 2) run `npm init` to create a package.json 
 3) install the following dependencies using npm install
