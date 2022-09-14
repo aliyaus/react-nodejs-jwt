@@ -3,8 +3,8 @@
 a basic nodejs backend that will authenticate & return a signed jwt cookie to the client if they are a valid user 
 
 # Steps to clone & run this project 
-1) clone repository
-2) in the project directory run `npm install` 
+1) clone `react-nodejs-jwt` repository
+2) in the `server` directory run `npm install` 
 3) run `npm start`
 
 # Steps to create this project 
