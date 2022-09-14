@@ -4,7 +4,7 @@ a basic auth frontend that will have a user login form that will display user in
 
 # Steps to clone & run this project
 1) clone `react-nodejs-jwt` repository
-2) in the auth-frontend directory run `npm install` or `yarn install` 
+2) in the `auth-frontend` directory run `npm install` or `yarn install` 
 3) run `npm start` or `yarn start` 
 
 # Steps to recreate this project
