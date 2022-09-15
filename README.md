@@ -8,4 +8,4 @@ a simple react+nodejs app that demonstrates user authentication using JWT (JSON 
 * using a middleware function to allow access to backend routes ONLY if valid session cookie is present
 
 # important
-you will need to run both auth-frontend & server for this application to work correctly. 
+you will need to run both auth-frontend & server projects for this application to work correctly. 
